@@ -26,7 +26,7 @@ document.write(
   `<p class="container fs-2 fw-semibold bg-dark-subtle text-center">${mois.length}</p>`
 );
 
-// Afficher la troisième valeur du tableau
+// Afficher la troisième valeur du tableau ``
 document.write(
   `<p class="container fs-2 fw-semibold bg-warning text-center">${mois[3]}</p>`
 );
